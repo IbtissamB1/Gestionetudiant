@@ -1,10 +1,9 @@
 package aiac.gi18.java;
 
 public class Etudiant {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
+	private int id;
+	private string nom;
+	private double note;
+	
 
 }
